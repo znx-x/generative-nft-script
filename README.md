@@ -1,6 +1,4 @@
-```shell
 This repository was originally cloned from https://github.com/rounakbanik/generative-art-nft.
-```
 
 # Generative NFT Script
 
